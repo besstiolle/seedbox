@@ -1,0 +1,1 @@
+dtach -n /tmp/rtorrent.dtach -Ez rtorrent -D -I && tail -F /root/rtorrent/log/execute.log > /dev/null
